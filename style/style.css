@@ -10,13 +10,19 @@ body {
 }
 
 .accText {
-  display: none;
+  /* display: none; */
   font-size: 1rem;
   margin-bottom: 1rem;
+
+  transition: all 0.8s;
+  height: 0;
+  overflow: hidden;
 }
 
-.show {
-  display: block;
+.open {
+  /* display: block; */
+  height: 140px;
+  /* height: 100%; */
 }
 
 /* textEl.style.lineHeight = 1.5;
