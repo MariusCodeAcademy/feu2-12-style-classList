@@ -1,11 +1,12 @@
 'use strict';
 console.log('classList.js');
 
-// element.classList    API
-// .add - prideti
-// .remove - pasalinti
-// .toggle - toglinti
-// .contains - grazina ar yra tokia klase
+// classList    API
+
+// element.classList.add - prideti
+// element.classList.remove - pasalinti
+// element.classList.toggle - toglinti
+// element.classList.contains - grazina ar yra tokia klase
 
 // 1. uzdeti <main> klase 'container'
 
