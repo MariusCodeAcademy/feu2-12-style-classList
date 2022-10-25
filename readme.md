@@ -11,3 +11,5 @@ p2. ```html
 </ul>
     ```
     paimti visas reiksmes is sio saraso ir su jomis sukurti nauja sarasa ol ir patalpinti ji po situo
+
+p3. dinamiskai su js sukurti checkbox elementa, su label dark Mode. patalpinti body pradzioje. jei pazymim varnele, body uzdedam klase kuri padaro fona '#333' o color 'white'. Jei nuzymim varnele klase nuimama.
