@@ -29,3 +29,11 @@
 .specialArt .author {
   font-size: 4rem;
 }
+
+.mainTitle {
+  font-weight: normal;
+  font-size: 4rem;
+  margin-bottom: 0.5em;
+  background-color: rgb(201, 201, 201);
+  text-align: center;
+}
