@@ -1,5 +1,9 @@
 @import 'reset.css';
 
+body {
+  margin-bottom: 500px;
+}
+
 .accTitle {
   cursor: pointer;
   background-color: rgb(219, 219, 219);
@@ -9,7 +13,10 @@
   display: none;
   font-size: 1rem;
   margin-bottom: 1rem;
-  /* display: block; */
+}
+
+.show {
+  display: block;
 }
 
 /* textEl.style.lineHeight = 1.5;
