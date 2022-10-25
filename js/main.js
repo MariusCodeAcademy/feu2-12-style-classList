@@ -19,3 +19,6 @@ makeStyleBig(sectionTitleEl);
 // ivedus spalva ta spalva turi nusidazyti article fonas. be mygtuko
 
 //  <button>make article 50% width</button> paspaudus sumazina article ploti iki 50%
+
+// <button>Hide article</button> kai paspaudziam paslepia article elementa, ir pasikeicia tekstas i 'show article'
+// paspaudus dar karta atvirkstinis efektas
