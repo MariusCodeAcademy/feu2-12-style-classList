@@ -17,3 +17,14 @@ p3. dinamiskai su js sukurti checkbox elementa, su label dark Mode. patalpinti b
 p4. sugeneruoti li elementu rikiuota sarasa is `const colorsArr = ['Red', 'Green', 'Blue', 'Violet'];`
 p4.1 padaryti kad paspaudus ant bet kurio is li elementu jo tekstas taptu bold
 p4.2 padaryti kad paspaudus ant bet kurio is li elementu jo tekstas taptu tos spalvos kokia parasyta
+
+p5. is `const navItems = ['index', 'about', 'practice'];` sugeneruoti ir patalpinti headeri su navigacija
+```html
+<header>
+  <nav>
+    <a class="navLink" href="index.html">index</a>
+    <a class="navLink" href="about.html">about</a>
+    <a class="navLink" href="practice.html">about</a>
+  </nav>
+</header>
+```
